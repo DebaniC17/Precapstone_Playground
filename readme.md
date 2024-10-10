@@ -1,3 +1,3 @@
 #Home
 
-![Home Screen](assets/home.png)
+![Home Screen](assess%2Fprecapstone-playground-readme.png)
